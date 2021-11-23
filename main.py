@@ -123,7 +123,7 @@ l1.pack(side=LEFT)
 l2.pack(side=LEFT)
 l3.pack()
 
-l4 = Label(top, text="", font="arial 20 bold", bg="green", width=15, relief="solid")
+l4 = Label(top, text="", font="arial 20 bold", bg="green", width=15)
 
 l4.pack(pady=20)
 
